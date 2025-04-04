@@ -25,10 +25,10 @@ the expected long-term behavior of NVIDIA's stock. A Kullback-Leibler (KL) diver
 A Markov Chain simulation was conducted for 200 future trading days, starting from a Mid trading day. Then, the observed frequencies of different states were compared with the predicted stationary distribution.
 
 Several visualizations were generated using ggplot2:
-Time Series Plot of NVIDIA's close-to-close percent change.
-Heatmap of Transition Probabilities between different market states.
-Bar Chart Comparison of observed vs. predicted probabilities for each market state.
-Daily Closing Prices Over Time.
+Time Series Plot of NVIDIA's close-to-close percent change,
+Heatmap of Transition Probabilities between different market states,
+Bar Chart Comparison of observed vs. predicted probabilities for each market state,
+Daily Closing Prices Over Time, and
 Daily Volume Over Time.
 
 Key Findings:
