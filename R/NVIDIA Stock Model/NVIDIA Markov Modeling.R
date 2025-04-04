@@ -4,7 +4,7 @@ library(ggplot2)
 library(lubridate)
 library(tidyr)
 
-NVIDIA_data <- read.csv("C://Users//porte//Documents//NVIDIA_Stock_Data.csv")
+# The code to import the dataset was here, but I have removed it. For reference,the dataset is available on github under the "R/NVIDIA Stock Model" folder.
 
 
 # Here, I have imported a data set containing the past 1200+ opening, closing,
