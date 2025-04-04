@@ -15,9 +15,9 @@ Bad Trading Day: -1.5% < PC < -0.75%
 Very Bad Trading Day: PC <= -1.5%
 
 A Markov Chain model was developed with four states:
-Good
-Mid
-Bad
+Good,
+Mid,
+Bad,
 Very Bad
 
 The probability of transitioning from one state to another was computed based on historical occurrences. A transition matrix was constructed and normalized to ensure probabilities sum to 1. The stationary distribution was determined to analyze 
@@ -38,9 +38,9 @@ Based on the Markov Chain model, the best days to invest may be after a "Good" o
 
 Requirements:
 To run this analysis, install the following R packages:
-dplyr
-markovchain
-ggplot2
-lubridate
+dplyr,
+markovchain,
+ggplot2,
+lubridate,
 tidyr
 
