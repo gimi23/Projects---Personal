@@ -1,6 +1,6 @@
 NVIDIA Stock Analysis Using Markov Chains
 
-Overview
+Overview:
 This project analyzes historical NVIDIA stock price data using a Markov Chain model. The goal is to categorize trading days based on percentage price changes, compute transition probabilities between different market states, and determine the likelihood 
 of a positive trading day given the previous day's state. The project also includes data visualization and simulation to verify the validity of the Markov Chain model.
 
