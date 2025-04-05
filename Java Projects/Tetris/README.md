@@ -16,7 +16,7 @@ Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
 
 Run the tetris.java file to start the game.
 
-Also, a "Broken Console Bold" font is required to run the application. It is included with the code under "Java Projects/Tetris/src".
+Also, a "Broken Console Bold" font is required to run the application. The file is included, along with the code, under "Java Projects/Tetris/src".
 
 Game Flow: The game begins with a random Tetrimino piece at the top of the screen. Players can move the piece left or right, and pressing down moves the piece faster. Players can rotate the piece using the Space or Z keys. When a piece reaches the bottom of the screen or hits another piece, it lands and becomes part of the game grid. Completed rows are cleared, and the score increases. The game ends if a new piece cannot be placed because the screen is full. There are various buttons in the UI that serve to reset, pause, or teach the user how to use the controls in the game.
 
