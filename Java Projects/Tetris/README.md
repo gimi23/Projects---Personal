@@ -16,7 +16,7 @@ How to Run:
 
     Run the tetris.java file to start the game.
 
-    Also, a "Broken Console Bold" font is required to run the application. It is included with the code under Java/Tetris/src.
+    Also, a "Broken Console Bold" font is required to run the application. It is included with the code under Java Projects/Tetris/src.
 
 Controls: Arrow Left: Move piece left. Arrow Right: Move piece right. Arrow Down: Move piece down faster. Space: Rotate the piece clockwise. Z: Rotate the piece counterclockwise. Escape: Pause the game.
 
