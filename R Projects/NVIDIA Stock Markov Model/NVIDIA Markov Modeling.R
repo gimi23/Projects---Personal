@@ -4,7 +4,7 @@ library(ggplot2)
 library(lubridate)
 library(tidyr)
 
-# The code to import the dataset was here, but I have removed it. For reference,the dataset is available on github under the "R/NVIDIA Stock Model" folder.
+# The code to import the dataset was here, but I have removed it. For reference,the dataset is available on github under "R Projects/NVIDIA Stock Markov Model".
 
 
 # Here, I have imported a data set containing the past 1200+ opening, closing,
