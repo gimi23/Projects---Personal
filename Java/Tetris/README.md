@@ -16,10 +16,10 @@ How to Run:
 
     Run the tetris.java file to start the game.
 
+    Also, a "Broken Console Bold" font is required to run the application. It is included with the code under Java/Tetris/src.
+
 Controls: Arrow Left: Move piece left. Arrow Right: Move piece right. Arrow Down: Move piece down faster. Space: Rotate the piece clockwise. Z: Rotate the piece counterclockwise. Escape: Pause the game.
 
 Game Flow: The game begins with a random Tetrimino piece at the top of the screen. Players can move the piece left or right, and pressing down moves the piece faster. Players can rotate the piece using the Space or Z keys. When a piece reaches the bottom of the screen or hits another piece, it lands and becomes part of the game grid. Completed rows are cleared, and the score increases. The game ends if a new piece cannot be placed because the screen is full. Pressing Escape pauses the game.
 
 Code Structure: The Piece.java file represents a Tetris piece and manages its movement, rotation, and collision detection. The Block.java file represents a single block in a Tetris piece, responsible for drawing and interacting with the grid. Game.java contains the core game logic, such as piece generation, collision detection, and row clearing. PaneOrganizer.java handles the UI elements, including the game grid and score display, and manages key event handling for user input. The Tetris.java file is the main entry point for the application, where the JavaFX window is set up and the game is initialized.
-
-Future Improvements: You could implement a level-up system, where the game speed increases as the player progresses. Adding functionality to save and display the highest scores could enhance the gameplay experience, and implementing sound effects for piece movement, rotation, and clearing rows would add to the atmosphere. Additionally, a theme selector could allow players to choose from different visual styles for the game grid and pieces.
