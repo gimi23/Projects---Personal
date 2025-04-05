@@ -10,10 +10,6 @@ How to Run:
 
 Ensure you have Java JDK 8 or later installed on your machine.
 
-Download or clone this repository.
-
-Open the project in your preferred Java IDE (Eclipse, IntelliJ, etc.).
-
 Run the tetris.java file to start the game.
 
 Also, a "Broken Console Bold" font is required to run the application. The file is included, along with the code, under "Java Projects/Tetris/src".
